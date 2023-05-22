@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="170"/>
+  <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="200"/>
   
   ## Hi there, I'm Absaidov JamaL <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
