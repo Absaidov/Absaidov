@@ -12,7 +12,7 @@ My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?styl
 
 👨‍💻 My first educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-61)
 
-👨‍💻 My second educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-71)
+💻 My second educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-71)
 
 ### My tech stack
 
