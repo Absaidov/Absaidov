@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="170"/>
+  <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="170"/>
   
   ## Hi there, I'm Absaidov JamaL 👋
 </div>
