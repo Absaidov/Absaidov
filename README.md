@@ -8,7 +8,6 @@
 ### How to contact me:
 Send email to: dabsaidov@bk.ru 
 
-[telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
 [telegram-news]: https://t.me/Absaidov_JamaL
 
 👨‍💻 My first educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-61)
