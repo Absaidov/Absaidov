@@ -8,7 +8,7 @@
 ### How to contact me:
 Send email to: dabsaidov@bk.ru 
 
-[telegram-news]: https://t.me/Absaidov_JamaL
+My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Absaidov_JamaL)
 
 👨‍💻 My first educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-61)
 
