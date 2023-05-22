@@ -38,10 +38,7 @@ ___
 ### My tech stack at work
 ___
 
-<div id="badges">
   
     https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white
   
-</div>
-
 
