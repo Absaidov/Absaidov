@@ -35,7 +35,9 @@ ___
 
 ### My tech stack at work
 <div id="badges">
+  
     <img src="https://https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Badge"/>
+  
 </div>
 
 
