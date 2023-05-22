@@ -11,8 +11,9 @@ Send email to: dabsaidov@bk.ru
 My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Absaidov_JamaL)
 
  ### [_👨‍💻 My first educational portal project hexlet.io_](https://github.com/Absaidov/java-project-61)
+ 
+  ### [_💻 My second educational portal project hexlet.io_](https://github.com/Absaidov/java-project-71)
 
-💻 My second educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-71)
 
 ### My technology stack in teaching a programming language
 
