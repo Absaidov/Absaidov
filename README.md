@@ -32,5 +32,6 @@ ___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+also+system+administrator)](https://git.io/typing-svg)
 
 ### My tech stack at work
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Linux"/>
+https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
+
 
