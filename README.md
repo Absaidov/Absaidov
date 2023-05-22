@@ -14,7 +14,7 @@ My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?styl
 
 💻 My second educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-71)
 
-### My tech stack
+### My technology stack in teaching a programming language
 
 ___
 <div id="badges">
@@ -28,3 +28,9 @@ ___
   <img src="https://img.shields.io/badge/Rest api-darkgreen?style=for-the-badge&logo=rest api&logoColor=white" alt="Rest api Badge"/> -->
   <img src="https://img.shields.io/badge/Intellij idea-black?style=for-the-badge&logo=Intellij idea&logoColor=white" alt="Intellij idea Badge"/>
 </div>
+___
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+also+system+administrator)](https://git.io/typing-svg)
+
+### My tech stack at work
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Linux"/>
+
