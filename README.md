@@ -8,7 +8,7 @@
 ### How to contact me:
 Send email to: dabsaidov@bk.ru 
 
-Write in telegram: [@alyonakdev](https://t.me/Absaidov_JamaL)
+Write in telegram: [@Absaidov_JamaL](https://t.me/Absaidov_JamaL)
 
 👨‍💻 My first educational portal project hexlet.io [here]([https://github.com/AlyonaKomarnitskaya?tab=repositories](https://github.com/Absaidov/java-project-61))
 
