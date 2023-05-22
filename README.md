@@ -38,7 +38,8 @@ ___
 ### My tech stack at work
 ___
 
-  
-    https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white
+<div id="badges">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Java Badge"/>
+</div>
   
 
