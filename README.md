@@ -11,6 +11,7 @@ Send email to: dabsaidov@bk.ru
 Write in telegram: [@Absaidov_JamaL](https://t.me/Absaidov_JamaL)
 
 👨‍💻 My first educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-61)
+
 👨‍💻 My second educational portal project hexlet.io [here](https://github.com/Absaidov/java-project-71)
 
 ### My tech stack
