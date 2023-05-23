@@ -31,6 +31,9 @@ ___
   <img src="https://img.shields.io/badge/Intellij idea-black?style=for-the-badge&logo=Intellij idea&logoColor=white" alt="Intellij idea Badge"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Intellij idea Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Intellij idea Badge"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Intellij idea Badge"/>
+  
+
   </div>
 
 
