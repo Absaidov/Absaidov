@@ -30,6 +30,7 @@ ___
   <img src="https://img.shields.io/badge/Rest api-darkgreen?style=for-the-badge&logo=rest api&logoColor=white" alt="Rest api Badge"/> -->
   <img src="https://img.shields.io/badge/Intellij idea-black?style=for-the-badge&logo=Intellij idea&logoColor=white" alt="Intellij idea Badge"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Intellij idea Badge"/>
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Intellij idea Badge"/>
   </div>
 
 
