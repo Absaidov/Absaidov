@@ -17,8 +17,6 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
 </div>
 
-My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)]()
-
 ### Projects:
 
 #### Educational projects:
