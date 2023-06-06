@@ -8,7 +8,16 @@
 ### How to contact me:
 Send email to: dabsaidov@bk.ru 
 
-My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Absaidov_JamaL)
+</div>
+
+<h3 align="center">Find me: :mag:</h3>
+<div align="center">
+<a href="https://t.me/Absaidov_JamaL" target="_blank"><img alt="Telegram" 
+src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+
+</div>
+
+My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)]()
 
 ### Projects:
 
