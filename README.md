@@ -15,11 +15,11 @@ My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?styl
 #### Educational projects:
 
 
- ### [Project 1. Mind Games](https://github.com/Absaidov/java-project-61)
+ ### [Project 1. Mind Games](https://github.com/Absaidov/java-project-61)✅
  
-  ### [Project 2. Difference calculator](https://github.com/Absaidov/java-project-71)
+ ### [Project 2. Difference calculator](https://github.com/Absaidov/java-project-71)✅
   
-  ### [👉🏻 My current course of study](https://github.com/Absaidov/hexlet-assignments)
+ ### [👉🏻 My current course of study](https://github.com/Absaidov/hexlet-assignments)
 
 
 ### My technology stack in teaching a programming language
