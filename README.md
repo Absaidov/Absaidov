@@ -9,10 +9,13 @@
 Send email to: dabsaidov@bk.ru 
 
 My telegram account [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Absaidov_JamaL)
+###Projects:
+####Educational projects:
 
- ### [_👨‍💻 My first educational portal project hexlet.io_](https://github.com/Absaidov/java-project-61)
+
+ #### [Project 1. Mind Games](https://github.com/Absaidov/java-project-61)
  
-  ### [_💻 My second educational portal project hexlet.io_](https://github.com/Absaidov/java-project-71)
+  ### [Project 2. Difference calculator](https://github.com/Absaidov/java-project-71)
   
   ### [👉🏻 My current course of study](https://github.com/Absaidov/hexlet-assignments)
 
