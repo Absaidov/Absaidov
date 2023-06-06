@@ -4,10 +4,6 @@
   ## Hi there, I'm Absaidov JamaL <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
-
-### How to contact me:
-Send email to: dabsaidov@bk.ru 
-
 </div>
 
 <h3 align="center">Find me: :mag:</h3>
