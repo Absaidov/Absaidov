@@ -41,7 +41,9 @@ ___
   <img src="https://img.shields.io/badge/Intellij idea-black?style=for-the-badge&logo=Intellij idea&logoColor=white" alt="Intellij idea Badge"/>
 
   <br>
-  <img src="https://www.codewars.com/users/JamaL_Absaidov/badges/large" alt="CodeWARS Badge"/>
+  <img src="https://www.codewars.com/users/JamaL_Absaidov/badges/micro" alt="CodeWARS Badge"/>
+  
+<!--   <img src="https://www.codewars.com/users/JamaL_Absaidov/badges/large" alt="CodeWARS Badge"/> -->
   
 
   </div>
