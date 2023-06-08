@@ -22,10 +22,14 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
  
  ### [Project 2. Difference calculator](https://github.com/Absaidov/java-project-71)
   
- ### [Project 3. Data Validator. *Is under development*](https://github.com/Absaidov/hexlet-assignments)
+ ### [Project 3. Data Validator. *Is under development*](https://github.com/Absaidov/java-project-78)
  
  ___
+### Personal projects:
 
+#### HTML layout project
+
+#### [Professional layout](https://github.com/Absaidov/HTMLmarkUP_GEEK_BRAINS)
 
 ### My technology stack in teaching a programming language
 
