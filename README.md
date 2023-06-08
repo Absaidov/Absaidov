@@ -23,6 +23,8 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
  ### [Project 2. Difference calculator](https://github.com/Absaidov/java-project-71)
   
  ### [Project 3. Data Validator. *Is under development*](https://github.com/Absaidov/hexlet-assignments)
+ 
+ ___
 
 
 ### My technology stack in teaching a programming language
