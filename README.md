@@ -22,7 +22,7 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
  
  ### [Project 2. Difference calculator](https://github.com/Absaidov/java-project-71)
   
- ### [Project 3. Data Validator. *Is under development.Passed automated tests*](https://github.com/Absaidov/java-project-78)
+ ### [Project 3. Data Validator](https://github.com/Absaidov/java-project-78)
  
  ___
 ### Personal projects:
