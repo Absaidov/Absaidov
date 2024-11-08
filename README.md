@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" width="400"/>
   
-  ## Привет! Меня зовут Джамал Абсаидов <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  ## Привет! Меня зовут Джамал Абсаидов
 </div>
 
 </div>
