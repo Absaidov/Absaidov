@@ -13,19 +13,19 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
 </div>
 
-### Projects:
+### Мои учебные проекты:
 
-#### Educational projects:
+#### Проекты, которые сдал при прохождении учебы в Хекслет:
 
 
- ### [Project 1. Mind Games](https://github.com/Absaidov/java-project-61)
+ ### [Project 1. Игры разума](https://github.com/Absaidov/java-project-61)
  
- ### [Project 2. Difference calculator](https://github.com/Absaidov/java-project-71)
+ ### [Project 2. Вычислитель отличий](https://github.com/Absaidov/java-project-71)
   
- ### [Project 3. Data Validator](https://github.com/Absaidov/java-project-78)
+ ### [Project 3. Валидатор данных](https://github.com/Absaidov/java-project-78)
  
  ___
-### Personal projects:
+
 
 #### HTML layout project
 
@@ -58,12 +58,12 @@ ___
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8DCAA0&background=000000&center=true&vCenter=true&width=435&lines=I'm+also+System+Administrator" alt="Typing SVG" /></a>
 
 
-### My tech stack at work
+
 ___
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Java Badge"/>
+<!--   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Java Badge"/> -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Java Badge"/>
@@ -72,11 +72,11 @@ ___
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Intellij idea Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Intellij idea Badge"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Intellij idea Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Intellij idea Badge"/>
+<!--   <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Java Badge"/> -->
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Intellij idea Badge"/> -->
+<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Intellij idea Badge"/> -->
+<!--   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Intellij idea Badge"/> -->
+<!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Intellij idea Badge"/> -->
 </div>
   
 
