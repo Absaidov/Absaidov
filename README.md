@@ -29,7 +29,7 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
 #### Учебный HTML проект
 
-#### [Professional layout](https://github.com/Absaidov/HTMLmarkUP_GEEK_BRAINS)
+#### [Профессиональная верстка](https://github.com/Absaidov/HTMLmarkUP_GEEK_BRAINS)
 
 
 ___
