@@ -27,11 +27,10 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
  ___
 
 
-#### HTML layout project
+#### Учебный HTML проект
 
 #### [Professional layout](https://github.com/Absaidov/HTMLmarkUP_GEEK_BRAINS)
 
-### My technology stack in teaching a programming language
 
 ___
 <div id="badges">
