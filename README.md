@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">Мой телеграм аккаунт: :mag:</h3>
+
 <div align="center">
 <a href="https://t.me/djoTarkinskiy" target="_blank"><img alt="Telegram" 
 src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
