@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" width="400"/>
   
-  ## Привет! Меня зовут Джамал Абсаидов
+  ## Привет! Меня зовут Джамал
 </div>
 
 </div>
 
-<h3 align="center">Find me: :mag:</h3>
+<h3 align="center">Мой телеграм аккаунт: :mag:</h3>
 <div align="center">
 <a href="https://t.me/djoTarkinskiy" target="_blank"><img alt="Telegram" 
 src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
