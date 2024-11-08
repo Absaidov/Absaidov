@@ -34,7 +34,7 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
 ___
 <div id="badges">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge"/>
+<!--   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge"/> -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
 <!--   <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/JUnit-yellow?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit Badge"/> -->
