@@ -56,10 +56,6 @@ ___
 <br>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8DCAA0&background=000000&center=true&vCenter=true&width=435&lines=I'm+also+System+Administrator" alt="Typing SVG" /></a> -->
 
-
-
-___
-
 <div id="badges">
 <!--   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Java Badge"/> -->
@@ -77,5 +73,9 @@ ___
 <!--   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Intellij idea Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Intellij idea Badge"/> -->
 </div>
+
+___
+
+
   
 
