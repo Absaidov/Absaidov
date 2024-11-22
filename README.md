@@ -13,7 +13,7 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
 </div>
 
-### Мои учебные проекты:
+### Мои учебные проекты по ЯП JAVA:
 
 #### Проекты, которые сдал при прохождении учебы в Хекслет:
 
