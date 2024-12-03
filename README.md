@@ -54,6 +54,7 @@ ___
 <!--   <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql Badge"/>
   <img src="https://img.shields.io/badge/Rest api-darkgreen?style=for-the-badge&logo=rest api&logoColor=white" alt="Rest api Badge"/> -->
   <img src="https://img.shields.io/badge/Intellij idea-black?style=for-the-badge&logo=Intellij idea&logoColor=white" alt="Intellij idea Badge"/>
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell Badge"/>
 
   <br>
 <!--   <img src="https://www.codewars.com/users/JamaL_Absaidov/badges/micro" alt="CodeWARS Badge"/> -->
@@ -79,7 +80,7 @@ ___
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Java Badge"/>
 <!--   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Java Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="Java Badge"/> -->
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Java Badge"/>
+  
 <!--   <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Java Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Intellij idea Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Intellij idea Badge"/> -->
