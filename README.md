@@ -13,16 +13,23 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
 </div>
 
+### Мои мобильные приложения на фреймворке FLUTTER:
+
+ ### [Проект 1. Приложение конвертация сайта компании CarCraft](https://github.com/Absaidov/carcraft)
+ 
+ ### [Проект 2. Ежедневное приложение для мусульман Dhikr](https://github.com/Absaidov/alpha16)
+ 
+
 ### Мои учебные проекты по ЯП JAVA:
 
 #### Проекты, которые сдал при прохождении учебы в Хекслет:
 
 
- ### [Project 1. Игры разума](https://github.com/Absaidov/java-project-61)
+ ### [Проект 1. Игры разума](https://github.com/Absaidov/java-project-61)
  
- ### [Project 2. Вычислитель отличий](https://github.com/Absaidov/java-project-71)
+ ### [Проект 2. Вычислитель отличий](https://github.com/Absaidov/java-project-71)
   
- ### [Project 3. Валидатор данных](https://github.com/Absaidov/java-project-78)
+ ### [Проект 3. Валидатор данных](https://github.com/Absaidov/java-project-78)
  
  ___
 
