@@ -34,7 +34,7 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
  ___
 
 
-#### Учебный HTML проект
+#### Старый учебный HTML проект
 
 #### [Профессиональная верстка](https://github.com/Absaidov/HTMLmarkUP_GEEK_BRAINS)
 
