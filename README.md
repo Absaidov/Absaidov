@@ -15,9 +15,10 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
 ### Мои мобильные приложения на фреймворке FLUTTER:
 
- ### [Проект 1. Приложение конвертация сайта компании CarCraft](https://github.com/Absaidov/carcraft)
+ ### [Проект 1. Учебный проект ежедневное приложение для мусульман Dhikr](https://github.com/Absaidov/alpha16)
+ ### [Проект 2. Приложение конвертация сайта компании CarCraft](https://github.com/Absaidov/carcraft)
  
- ### [Проект 2. Ежедневное приложение для мусульман Dhikr](https://github.com/Absaidov/alpha16)
+
  
 
 ### Мои учебные проекты по ЯП JAVA:
