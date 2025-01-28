@@ -50,6 +50,7 @@ ___
 <!--   <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/JUnit-yellow?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit Badge"/> -->
   <img src="https://img.shields.io/badge/Gradle-deepskyblue?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge"/>
+  <img src="https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=java&logoColor=white" alt="Maven Badge"/>
 <!--   <img src="https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge"/> -->
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 <!--   <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql Badge"/>
