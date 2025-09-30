@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
  ### [Проект 1. Учебный проект Dhikr приложение для мусульман Dhikr](https://github.com/Absaidov/alpha16)
  ### [Проект 2. Приложение CarCraft конвертация сайта компании CarCraft](https://github.com/Absaidov/carcraft)
- ### [Проект 3. Приложение Tidy для управления задачами (TODO приложение)](https://github.com/Absaidov/Tidy)
+
  
 
  
