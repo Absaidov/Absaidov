@@ -13,6 +13,11 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 
 </div>
 
+### Мои учебные проекты по курсу DevOps-инженер:
+
+ ### [Проект 1. Игры разума](https://github.com/Absaidov/devops-engineer-from-scratch-project-49)
+
+
 ### Мои мобильные приложения на фреймворке FLUTTER:
 
  ### [Проект 1. Учебный проект Dhikr приложение для мусульман Dhikr](https://github.com/Absaidov/alpha16)
