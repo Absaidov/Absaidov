@@ -52,7 +52,7 @@ ___
 
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-  <img src=" https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
  
 <!--   <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/JUnit-yellow?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit Badge"/> -->
