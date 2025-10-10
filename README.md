@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" width="400"/>
   
-  ## Привет! Меня зовут Джамал
+  ## Меня зовут Джамал
 </div>
 
 </div>
