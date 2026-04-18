@@ -16,6 +16,8 @@ src="https://img.shields.io/badge/-Telegram-black.svg?&style=for-the-badge&logo=
 ### Мои учебные проекты по курсу DevOps-инженер:
 
  ### [Проект 1. Игры разума](https://github.com/Absaidov/devops-engineer-from-scratch-project-49)
+ ### [Проект 2. Деплой приложения на PaaS (Devops)](https://github.com/Absaidov/devops-engineer-from-scratch-project-313)
+ 
 
 
 ### Мои мобильные приложения на фреймворке FLUTTER:
