@@ -1,12 +1,20 @@
 # Джамал
 
-Развиваюсь в направлении **DevOps и автоматизации**. В учебных проектах автоматизирую подготовку серверов и развертывание приложений с помощью Ansible и Docker, работаю с сервисами Yandex Cloud.
+Развиваюсь в направлении **DevOps и автоматизации**. В учебных проектах автоматизирую подготовку серверов и развертывание приложений в Yandex Cloud с помощью Ansible и Docker, настраиваю мониторинг и сбор логов.
 
 Связаться со мной: [Telegram — @djoTarkinskiy](https://t.me/djoTarkinskiy).
 
 ## DevOps и автоматизация
 
 Учебные проекты курса «DevOps-инженер».
+
+### [Мониторинг и наблюдаемость приложения](https://github.com/Absaidov/devops-engineer-from-scratch-project-318)
+
+Продолжение проекта по развертыванию приложения: настройка метрик, логов и оповещений. Стек наблюдаемости разворачивается через Ansible на отдельной виртуальной машине.
+
+- Сбор метрик приложения, Linux и Nginx в Prometheus, дашборды в Grafana.
+- Централизованный сбор логов приложения и Nginx через Promtail в Loki, поиск с помощью LogQL.
+- Алерты Grafana с уведомлениями по электронной почте о недоступности приложения, росте ошибок и времени ответа, нехватке ресурсов.
 
 ### [Развертывание приложения с Ansible и Docker в Yandex Cloud](https://github.com/Absaidov/devops-engineer-from-scratch-project-315)
 
@@ -28,4 +36,6 @@
 - **Веб-сервер и HTTPS:** Nginx, Let's Encrypt, Certbot.
 - **Базы данных и миграции:** PostgreSQL, Flyway.
 - **Разработка и сборка:** Python, FastAPI, Make, uv.
-- **Проверки и диагностика:** GitHub Actions, Logback, Sentry.
+- **Мониторинг и оповещения:** Prometheus, Grafana.
+- **Сбор и анализ логов:** Loki, Promtail, Logback.
+- **Проверки и диагностика:** GitHub Actions, Sentry.
