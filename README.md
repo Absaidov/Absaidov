@@ -1,12 +1,20 @@
 # Джамал
 
-Развиваюсь в направлении **DevOps и автоматизации**. В учебных проектах автоматизирую подготовку серверов и развертывание приложений в Yandex Cloud с помощью Ansible и Docker, настраиваю мониторинг и сбор логов.
+Развиваюсь в направлении **DevOps и автоматизации**. В учебных проектах описываю облачную инфраструктуру с помощью Terraform, автоматизирую развертывание приложений в Yandex Cloud, настраиваю мониторинг и сбор логов.
 
 Связаться со мной: [Telegram — @djoTarkinskiy](https://t.me/djoTarkinskiy).
 
 ## DevOps и автоматизация
 
 Учебные проекты курса «DevOps-инженер».
+
+### [Kubernetes и инфраструктура как код в Yandex Cloud](https://github.com/Absaidov/devops-engineer-from-scratch-project-319)
+
+Перенос приложения в Managed Kubernetes. Сеть, кластер, PostgreSQL и Object Storage описаны в Terraform.
+
+- Развертывание через Helm: настройки dev/prod, поэтапное обновление реплик, проверки готовности и миграции Flyway.
+- Синхронизация секретов из Yandex Lockbox через External Secrets Operator и автоматический перезапуск приложения при их обновлении.
+- Метрики в Managed Service for Prometheus, логи через Fluent Bit в Cloud Logging и оповещения через Alertmanager.
 
 ### [Мониторинг и наблюдаемость приложения](https://github.com/Absaidov/devops-engineer-from-scratch-project-318)
 
@@ -31,11 +39,13 @@
 ## Технологии и инструменты
 
 - **Системы и инструменты:** Linux (Ubuntu), Git, PowerShell, UFW.
-- **Автоматизация и контейнеры:** Ansible, Ansible Vault, Jinja2, Docker.
-- **Облачные сервисы:** Yandex Cloud (Container Registry, Managed Service for PostgreSQL, Object Storage), Render (PaaS).
+- **Инфраструктура и автоматизация:** Terraform, Ansible, Jinja2.
+- **Контейнеры и оркестрация:** Docker, Kubernetes, Helm.
+- **Облачные сервисы:** Yandex Cloud (Managed Kubernetes, Container Registry, Managed Service for PostgreSQL, Object Storage), Render (PaaS).
+- **Управление секретами:** Ansible Vault, Yandex Lockbox, External Secrets Operator.
 - **Веб-сервер и HTTPS:** Nginx, Let's Encrypt, Certbot.
 - **Базы данных и миграции:** PostgreSQL, Flyway.
 - **Разработка и сборка:** Python, FastAPI, Make, uv.
-- **Мониторинг и оповещения:** Prometheus, Grafana.
-- **Сбор и анализ логов:** Loki, Promtail, Logback.
+- **Мониторинг и оповещения:** Prometheus, Grafana, Alertmanager, Yandex Monitoring.
+- **Сбор и анализ логов:** Loki, Promtail, Fluent Bit, Logback, Yandex Cloud Logging.
 - **Проверки и диагностика:** GitHub Actions, Sentry.
